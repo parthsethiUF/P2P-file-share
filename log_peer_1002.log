@@ -1,0 +1,53 @@
+2018/04/24 16:00:02: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:07: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:12: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:17: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:22: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:27: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:32: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:37: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:38: Peer 1002 is connected from Peer 1003.
+2018/04/24 16:00:42: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:47: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:52: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:52: Peer 1002 is connected from Peer 1004.
+2018/04/24 16:00:52: Peer 1002 received the 'not interested' message from 1004.
+2018/04/24 16:00:52: Peer 1002 received the 'have' message from 1004 for the piece 0.
+2018/04/24 16:00:52: Peer 1002 is unchoked by 1004.
+2018/04/24 16:00:52: Peer 1002 received the 'have' message from 1004 for the piece 2.
+2018/04/24 16:00:52: Peer 1002 has downloaded the piece 0 from 1004.
+Now the number of pieces it has is 1.
+2018/04/24 16:00:52: Peer 1002 received the 'have' message from 1004 for the piece 3.
+2018/04/24 16:00:52: Peer 1002 has downloaded the piece 2 from 1004.
+Now the number of pieces it has is 2.
+2018/04/24 16:00:52: Peer 1002 received the 'not interested' message from 1004.
+2018/04/24 16:00:52: Peer 1002 has downloaded the piece 3 from 1004.
+Now the number of pieces it has is 3.
+2018/04/24 16:00:52: Peer 1002 received the 'not interested' message from 1004.
+2018/04/24 16:00:52: Peer 1002 received the 'not interested' message from 1004.
+2018/04/24 16:00:53: Peer 1002 received the 'have' message from 1004 for the piece 1.
+2018/04/24 16:00:57: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:00:57: Peer 1002 is unchoked by 1004.
+2018/04/24 16:00:57: Peer 1002 has downloaded the piece 1 from 1004.
+Now the number of pieces it has is 4.
+2018/04/24 16:00:57: Peer 1002 has downloaded the complete file 
+2018/04/24 16:00:57: Peer 1002 received the 'not interested' message from 1004.
+2018/04/24 16:01:01: Peer 1002 is connected from Peer 1005.
+2018/04/24 16:01:01: Peer 1002 received the 'interested' message from 1005.
+2018/04/24 16:01:01: Peer 1002 has the optimistically unchoked neighbor 1005.
+2018/04/24 16:01:01: Peer 1002 received the 'have' message from 1005 for the piece 2.
+2018/04/24 16:01:01: Peer 1002 received the 'have' message from 1005 for the piece 1.
+2018/04/24 16:01:01: Peer 1002 is choked by 1005.
+2018/04/24 16:01:01: Peer 1002 received the 'have' message from 1005 for the piece 0.
+2018/04/24 16:01:02: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:01:02: Peer 1002 received the 'have' message from 1005 for the piece 3.
+2018/04/24 16:01:02: Peer 1002 is choked by 1005.
+2018/04/24 16:01:02: Peer 1002 is unchoked by 1004.
+2018/04/24 16:01:07: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:01:07: Peer 1002 is unchoked by 1004.
+2018/04/24 16:01:12: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:01:16: Peer 1002 has the optimistically unchoked neighbor 1005.
+2018/04/24 16:01:17: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:01:22: Peer 1002 has the preferred neighbors 0,0.
+2018/04/24 16:01:22: Peer 1002 is unchoked by 1004.
+2018/04/24 16:01:27: Peer 1002 has the preferred neighbors 0,0.
